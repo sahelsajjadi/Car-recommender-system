@@ -1,5 +1,4 @@
 requests
-numpy
 pandas
 scikit-learn
 mysql-connector-python
