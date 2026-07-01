@@ -18,10 +18,10 @@ A machine learning-based recommendation system that suggests cars based on user 
 
 - Python
 - MySQL
-- BeautifulSoup
 - Pandas
-- NumPy
 - Scikit-learn
+- Requests
+- Tkinter
 
 ---
 
