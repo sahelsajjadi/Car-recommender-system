@@ -43,22 +43,3 @@ The trained recommendation model predicts suitable cars based on user preference
 ## License
 
 MIT
-
-## Results
-
-The trained recommendation model predicts suitable cars based on user preferences and similarity between vehicle features.
-
----
-
-## Future Improvements
-
-- Deploy as a web application
-- Add deep learning models
-- Real-time recommendation
-- Improve recommendation accuracy
-
----
-
-## License
-
-MIT
