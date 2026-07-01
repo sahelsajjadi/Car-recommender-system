@@ -2,4 +2,4 @@ requests
 pandas
 scikit-learn
 mysql-connector-python
-matplotlib
+tkinter
